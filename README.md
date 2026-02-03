@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">👋 Hey there! I’m Maleesha Hirumal 😎</h2>
+<h2 align="left">👋I’m Maleesha Hirumal 😎</h2>
 
 ###
 
