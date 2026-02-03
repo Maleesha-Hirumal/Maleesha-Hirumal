@@ -62,7 +62,7 @@
 
 ###
 
-<img src="[https://raw.githubusercontent.com/Maleesha-Hirumal/Maleesha-Hirumal/snake.yml](https://github.com/Maleesha-Hirumal/Maleesha-Hirumal/blob/main/snake.yml)" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Maleesha-Hirumal/Maleesha-Hirumal/snake.yml" alt="Snake animation" />
 
 ###
 
