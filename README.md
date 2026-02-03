@@ -66,7 +66,7 @@
 <h2 align="left">GitHub Snake</h2>
 
 <p align="center">
-  ![Snake animation](https://github.com/Maleesha-Hirumal/Maleesha-Hirumal/blob/output/snake.svg)
+  ![Snake animation](https://github.com/Maleesha-Hirumal/Maleesha-Hirumal/blob/output/snake.yml)
 </p>
 
 <div>
