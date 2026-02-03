@@ -62,7 +62,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Platane/snk/master/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Maleesha-Hirumal/Maleesha-Hirumal/output/snake.svg" alt="Snake animation" />
 
 ###
 
