@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">Tolls and Softwares I skilled :</h2>
+<h2 align="left">Tools and Softwares I skilled :</h2>
 
 ###
 
