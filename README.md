@@ -52,6 +52,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Maleesha-Hirumal/Maleesha-Hirumal/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Maleesha-Hirumal/Maleesha-Hirumal/blob/main/.github/workflows/.github/workflows/snake.svg" alt="Snake animation" />
 
 ###
