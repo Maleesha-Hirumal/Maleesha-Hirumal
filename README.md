@@ -6,7 +6,27 @@
 
 ###
 
-<p align="left">I’m a cybersecurity student at SLTC Research University 🎓, passionate about exploring how systems work and making them safer 🔐. Curious by nature 🧠, I enjoy solving problems, building projects, and learning new technologies every day 🚀.<br><br>When I’m not diving into code, you’ll find me:<br>🎮 Gaming & exploring game mechanics<br>🎨 Designing clean interfaces with HTML & CSS<br>☕ Experimenting with Java & databases<br><br>Skills & Extras:<br>🎮 Game exploration & mechanics<br>🔐 Cybersecurity & Ethical Hacking<br>☕ Java Programming<br>🗄️ Databases (MySQL, SQL)<br>🎨 Web Design (HTML & CSS)<br>🛠️ Git & GitHub<br>💻 Problem-Solving & Project Building</p>
+<p align="left">I’m a cybersecurity student at SLTC Research University 🎓, passionate about exploring how systems work and making them safer 🔐. Curious by nature 🧠, I enjoy solving problems, building projects, and learning new technologies every day 🚀.
+  
+<p>When I’m not diving into code, you’ll find me:</p>
+<ul>
+  <li>🎮 Gaming & exploring game mechanics</li>
+  <li>🎨 Designing clean interfaces with HTML & CSS</li>
+  <li>☕ Experimenting with Java & databases</li>
+</ul>
+<br>
+<br>
+<p>Skills & Extras:</p>
+<ul>
+  <li>🎮 Game exploration & mechanics</li>
+  <li>🔐 Cybersecurity & Ethical Hacking</li>
+  <li>☕ Java Programming</li>
+  <li>🗄️ Databases (MySQL, SQL)</li>
+  <li>🎨 Web Design (HTML & CSS)</li>
+  <li>🛠️ Git & GitHub</li>
+  <li>💻 Problem-Solving & Project Building</li>
+</ul>
+
 
 ###
 
