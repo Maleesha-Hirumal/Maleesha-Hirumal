@@ -6,10 +6,11 @@
 
 <!-- Typing animation on a single line -->
 <h3 align="left" style="display: flex; align-items: center;">
-  <span style="color:black;monospace; font-size: 28px;">I love being a&nbsp;</span>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=28&pause=1000&color=2DD4BF&vCenter=true&width=400&lines=Cybersecurity+Student+🔐;Designer+🎨;Web+Developer+💻;Gamer+🎮;Java+Programmer+☕;Problem+Solver+🧠" alt="Typing Animation" />
+  <span style="color:black;monospace; font-size: 22px;">I love being a&nbsp;</span>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=22&pause=1000&color=2DD4BF&vCenter=true&width=400&lines=Cybersecurity+Student+🔐;Designer+🎨;Web+Developer+💻;Gamer+🎮;Java+Programmer+☕;Problem+Solver+🧠" alt="Typing Animation" />
 </h3>
 <br>
+<BR>
 ###
 
 <img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGNwMXRhNTA5NmJkcGl0YnpxOW51N2NyejJleWxsZXAxdHB4amNncSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zbJSnWoLpu7R78ZmvE/giphy.gif"  />
