@@ -15,7 +15,6 @@
   <li>☕ Experimenting with Java & databases</li>
 </ul>
 <br>
-<br>
 <p>Skills & Extras:</p>
 <ul>
   <li>🎮 Game exploration & mechanics</li>
