@@ -1,26 +1,28 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=2DD4BF"  />
-</div>
+###
+
+<h1 align="left">👋 Hey there! I’m Maleesha Hirumal 😎</h1>
 
 ###
 
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<h2 align="left">👋I’m Maleesha Hirumal 😎</h2>
-
+<!-- Typing animation on a single line -->
+<h3 align="left" style="display: flex; align-items: center;">
+  <span style="color:black;monospace; font-size: 28px;">I love being a&nbsp;</span>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=28&pause=1000&color=2DD4BF&vCenter=true&width=400&lines=Cybersecurity+Student+🔐;Designer+🎨;Web+Developer+💻;Gamer+🎮;Java+Programmer+☕;Problem+Solver+🧠" alt="Typing Animation" />
+</h3>
+<br>
 ###
 
 <img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGNwMXRhNTA5NmJkcGl0YnpxOW51N2NyejJleWxsZXAxdHB4amNncSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zbJSnWoLpu7R78ZmvE/giphy.gif"  />
 
-###
 
-<p align="left">🎓 Cybersecurity Student at SLTC Research University<br>🔐 Passionate about security, technology & problem-solving<br><br>💻 Tech Stack & Interests<br>🛡️ Cybersecurity & ethical hacking<br>☕ Java | 🗄️ Databases | 🧠 IT concepts<br>🧩 Building & learning through projects<br><br>🎬 Editing<br>🎨 Turning ideas into clean, creative visuals ✂️✨<br><br>🎮 Gamer at heart<br>🕹️ Love exploring game worlds, mechanics & tech behind games<br><br>🚀 Mindset<br>📚 Always learning<br>🔍 Curious about how systems work<br>💡 Driven to grow & create impactful projects</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<p align="left">I’m a cybersecurity student at SLTC Research University 🎓, passionate about exploring how systems work and making them safer 🔐. Curious by nature 🧠, I enjoy solving problems, building projects, and learning new technologies every day 🚀.<br><br>When I’m not diving into code, you’ll find me:<br>🎮 Gaming & exploring game mechanics<br>🎨 Designing clean interfaces with HTML & CSS<br>☕ Experimenting with Java & databases<br><br>Skills & Extras:<br>🎮 Game exploration & mechanics<br>🔐 Cybersecurity & Ethical Hacking<br>☕ Java Programming<br>🗄️ Databases (MySQL, SQL)<br>🎨 Web Design (HTML & CSS)<br>🛠️ Git & GitHub<br>💻 Problem-Solving & Project Building</p>
+
+###
+
+<h2 align="left">Tolls and Softwares I skilled :</h2>
 
 ###
 
@@ -62,12 +64,6 @@
 
 ###
 
-<img src="https://github.com/Maleesha-Hirumal/Maleesha-Hirumal/blob/main/snake.yml" alt="Snake animation" />
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=2DD4BF"  />
-</div>
+<img src="https://raw.githubusercontent.com/Maleesha-Hirumal/Maleesha-Hirumal/output/snake.svg" alt="Snake animation" />
 
 ###
