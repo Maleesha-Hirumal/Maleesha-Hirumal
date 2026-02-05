@@ -91,7 +91,7 @@ Curious by nature 🧠, I enjoy solving problems, building projects, and learnin
 
 ###
 
-<img src="https://github.com/Maleesha-Hirumal/Maleesha-Hirumal/blob/main/.github/workflows/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Maleesha-Hirumal/Maleesha-Hirumal/blob/main/.github/workflows/.github/workflows/snake.svg" alt="Snake animation" />
 
 ###
 
